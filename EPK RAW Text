@@ -1,1 +1,37 @@
-E
+Ereignis-Prozess-Kette: GUI-Anpassung durch Kundenwunsch
+
+    Ereignis 1: Kundenwunsch für GUI-Anpassung
+        Der Kunde äußert den Wunsch nach einer GUI-Anpassung, entweder durch direkte Kontaktaufnahme oder über ein Feedback-Formular.
+
+    Prozess 1: Erfassung des Kundenwunsches
+        Ein Kundensupportmitarbeiter oder ein dafür verantwortlicher Teammitglied erfasst den Kundenwunsch detailliert, einschließlich spezifischer Anforderungen und Beispiele.
+
+    Ereignis 2: Übermittlung an die Entwicklungsabteilung
+        Der erfasste Kundenwunsch wird an die Entwicklungsabteilung weitergeleitet.
+
+    Prozess 2: Überprüfung und Analyse
+        Das Entwicklungsteam überprüft den Kundenwunsch auf technische Machbarkeit und analysiert die Auswirkungen auf das bestehende System.
+
+    Ereignis 3: Bestätigung oder Klärungsbedarf
+        Das Entwicklungsteam bestätigt die Machbarkeit oder gibt Rückmeldung, wenn weitere Informationen oder Klärungen erforderlich sind.
+
+    Prozess 3: Ticket-Erstellung
+        Bei positiver Bestätigung wird ein Ticket für die GUI-Anpassung erstellt, das alle relevanten Details und Anforderungen enthält.
+
+    Ereignis 4: Ticket-Zuweisung
+        Das erstellte Ticket wird an das zuständige Entwicklungsteam oder den entsprechenden Entwickler zugewiesen.
+
+    Prozess 4: GUI-Anpassung
+        Der Entwickler setzt die GUI-Anpassung gemäß den im Ticket festgelegten Anforderungen um.
+
+    Prozess 5: Code-Review
+        Ein anderer Entwickler oder ein Teamleiter überprüft den implementierten Code, um sicherzustellen, dass er den Standards entspricht und fehlerfrei ist.
+
+    Prozess 6: Qualitätssicherung (optional)
+        Wenn erforderlich, durchläuft die GUI-Anpassung einen Qualitätsprüfprozess, um sicherzustellen, dass sie den Qualitätsstandards entspricht.
+
+    Ereignis 5: Abschluss und Bereitstellung
+        Nach erfolgreicher Überprüfung und ggf. Qualitätssicherung wird die GUI-Anpassung in das Produkt integriert und bereitgestellt.
+
+    Ereignis 6: Benachrichtigung an den Kunden
+        Der Kunde wird über die Umsetzung der GUI-Anpassung informiert.
