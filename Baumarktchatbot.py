@@ -1,3 +1,4 @@
+#Dicitonary mit den Produkten des Baumarkt und den jeweiligen Regalen und Kategorien.
 baumarkt_inventar = {
     'Wandfarbe': {'Regalnummer': 'A1', 'Kategorie': 'Farbe'},
     'Lack': {'Regalnummer': 'A2', 'Kategorie': 'Farbe'},
