@@ -12,6 +12,7 @@ baumarkt_inventar = {
 }
 
 #Funktion um die Eingabe des Nutzers mit der Datenbank abzugleichen.
+#Die Parameter (abfrage,inventar) werden in der Schleife in Zeile 78 übergeben (frage, baumarkt_inventar). Frage wird dabei durch den input des Nutzers zugewiesen.
 def produkt_informationen(abfrage, inventar):
     produkt_info = inventar.get(abfrage)
     
